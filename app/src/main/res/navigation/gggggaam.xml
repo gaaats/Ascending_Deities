@@ -7,27 +7,27 @@
 
     <fragment
         android:id="@+id/gaame1Fragment"
-        android:name="com.artifexmundi.bale.Gaame1Fragment"
+        android:name="com.artifexmundi.bale.Gaame111Fragment"
         android:label="fragment_gaame1"
-        tools:layout="@layout/fragment_gaame1" >
+        tools:layout="@layout/fragment_gaame111" >
         <action
             android:id="@+id/action_gaame1Fragment_to_gaaame2Fragment"
             app:destination="@id/gaaame2Fragment" />
     </fragment>
     <fragment
         android:id="@+id/gaaame2Fragment"
-        android:name="com.artifexmundi.bale.Gaaame2Fragment"
+        android:name="com.artifexmundi.bale.Gaaame222Fragment"
         android:label="fragment_gaaame2"
-        tools:layout="@layout/fragment_gaaame2" >
+        tools:layout="@layout/fragment_gaaame222" >
         <action
             android:id="@+id/action_gaaame2Fragment_to_gaame3Fragment"
             app:destination="@id/gaame3Fragment" />
     </fragment>
     <fragment
         android:id="@+id/gaame3Fragment"
-        android:name="com.artifexmundi.bale.Gaame3Fragment"
+        android:name="com.artifexmundi.bale.Gaame333Fragment"
         android:label="fragment_gaame3"
-        tools:layout="@layout/fragment_gaame3" >
+        tools:layout="@layout/fragment_gaame333" >
         <action
             android:id="@+id/action_gaame3Fragment_to_gaame1Fragment"
             app:destination="@id/gaame1Fragment" />

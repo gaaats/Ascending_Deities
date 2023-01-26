@@ -7,43 +7,43 @@
 
     <fragment
         android:id="@+id/maaamammaFragment"
-        android:name="com.artifexmundi.bale.MaaamammaFragment"
+        android:name="com.artifexmundi.bale.Ma1Fragment"
         android:label="fragment_maaamamma"
-        tools:layout="@layout/fragment_maaamamma" >
+        tools:layout="@layout/fragment_ma1" >
         <action
             android:id="@+id/action_maaamammaFragment_to_conCOnFragment"
             app:destination="@id/conCOnFragment" />
     </fragment>
     <fragment
         android:id="@+id/conCOnFragment"
-        android:name="com.artifexmundi.bale.ConCOnFragment"
+        android:name="com.artifexmundi.bale.Con1Fragment"
         android:label="fragment_con_c_on"
-        tools:layout="@layout/fragment_con_c_on" >
+        tools:layout="@layout/fragment_con1" >
         <action
             android:id="@+id/action_conCOnFragment_to_seciiManFragment"
             app:destination="@id/seciiManFragment" />
     </fragment>
     <fragment
         android:id="@+id/seciiManFragment"
-        android:name="com.artifexmundi.bale.SeciiManFragment"
+        android:name="com.artifexmundi.bale.SeMainFragment"
         android:label="fragment_secii_man"
-        tools:layout="@layout/fragment_secii_man" >
+        tools:layout="@layout/fragment_se_main" >
         <action
             android:id="@+id/action_seciiManFragment_to_prrrFiilFragment"
             app:destination="@id/prrrFiilFragment" />
     </fragment>
     <fragment
         android:id="@+id/prrrFiilFragment"
-        android:name="com.artifexmundi.bale.PrrrFiilFragment"
+        android:name="com.artifexmundi.bale.Bef1Fragment"
         android:label="fragment_prrr_fiil"
-        tools:layout="@layout/fragment_prrr_fiil" >
+        tools:layout="@layout/fragment_bef1" >
         <action
             android:id="@+id/action_prrrFiilFragment_to_fillloFragment"
             app:destination="@id/fillloFragment" />
     </fragment>
     <fragment
         android:id="@+id/fillloFragment"
-        android:name="com.artifexmundi.bale.FillloFragment"
+        android:name="com.artifexmundi.bale.F5Fragment"
         android:label="fragment_filllo"
-        tools:layout="@layout/fragment_filllo" />
+        tools:layout="@layout/fragment_f5" />
 </navigation>
