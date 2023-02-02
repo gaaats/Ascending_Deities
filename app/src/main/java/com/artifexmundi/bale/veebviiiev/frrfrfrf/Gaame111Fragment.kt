@@ -1,4 +1,4 @@
-package com.artifexmundi.bale
+package com.artifexmundi.bale.veebviiiev.frrfrfrf
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
+import com.artifexmundi.bale.R
 import com.artifexmundi.bale.databinding.FragmentGaame111Binding
 import com.google.android.material.snackbar.Snackbar
 

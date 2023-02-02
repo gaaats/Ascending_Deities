@@ -1,17 +1,16 @@
 package com.artifexmundi.bale.apapapapapappp
 
 
-import com.artifexmundi.bale.cocococo.Util26255.h2y5hy5y55y
-import com.artifexmundi.bale.interrrrtt.vtbhgthgtbh
-import com.artifexmundi.bale.interrrrtt.bghtbghgtbhgth
-import com.my.tracker.MyTracker
 import android.app.Application
 import android.content.Context
-import com.artifexmundi.bale.cocococo.Util26255.thyyh
-import com.artifexmundi.bale.cocococo.Util26255.instIdhyhy
-import com.artifexmundi.bale.cocococo.Util26255.hyhyh
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.h2y5hy5y55y
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.hyhyh
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.instIdhyhy
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.thyyh
+import com.artifexmundi.bale.interrrrtt.bghtbghgtbhgth
+import com.artifexmundi.bale.interrrrtt.vtbhgthgtbh
+import com.my.tracker.MyTracker
 import com.onesignal.OneSignal
-import io.branch.referral.Branch
 import org.koin.android.ext.koin.androidContext
 import org.koin.android.ext.koin.androidLogger
 import org.koin.core.context.GlobalContext
@@ -64,10 +63,8 @@ class BatBatClaaas:Application() {
     }
 
     private fun gtjgtuitghgt() {
-        Branch.getAutoInstance(this)
     }
 
     private fun gtojggtgthgithgthugt() {
-        Branch.enableTestMode()
     }
 }

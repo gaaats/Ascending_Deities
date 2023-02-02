@@ -8,7 +8,7 @@
     android:gravity="center"
     android:background="@drawable/bababab"
     android:layout_height="match_parent"
-    tools:context=".Gaame333Fragment">
+    tools:context=".veebviiiev.frrfrfrf.Gaame333Fragment">
 
     <com.airbnb.lottie.LottieAnimationView
         android:id="@+id/loooottttie"

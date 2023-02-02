@@ -3,23 +3,19 @@ package com.artifexmundi.bale.veebviiiev
 import android.app.Application
 import android.content.Context
 import android.content.SharedPreferences
-import android.util.Log
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.appsflyer.AFInAppEventParameterName
 import com.appsflyer.AppsFlyerConversionListener
 import com.appsflyer.AppsFlyerLib
 import com.artifexmundi.bale.apppppiish.CountryCodeJShy2hyhy2
 import com.artifexmundi.bale.apppppiish.CountryRepohy2hy2hy
 import com.artifexmundi.bale.apppppiish.DevRepo
 import com.artifexmundi.bale.apppppiish.GeoDevh26yh6
-import com.artifexmundi.bale.cocococo.Util26255.hyyuju5u55u
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.hyyuju5u55u
 import com.facebook.applinks.AppLinkData
 import com.google.android.gms.ads.identifier.AdvertisingIdClient
-import io.branch.referral.util.BRANCH_STANDARD_EVENT
-import io.branch.referral.util.BranchEvent
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
@@ -76,33 +72,6 @@ class ViModt6g2t2g(
             val dataGotten = data?.get("campaign").toString()
             hyjujujujuj.postValue(dataGotten)
 
-            when (data?.get(AFInAppEventParameterName.AF_CHANNEL).toString()) {
-                "ACI_Search" -> {
-                    BranchEvent(BRANCH_STANDARD_EVENT.ACHIEVE_LEVEL).setDescription("ACI_Search")
-                        .logEvent(hyjujkilolool.applicationContext)
-
-                }
-                "ACI_Youtube" -> {
-                    BranchEvent(BRANCH_STANDARD_EVENT.SHARE).setDescription("ACI_Youtube")
-                        .logEvent(hyjujkilolool.applicationContext)
-
-
-                }
-                "ACI_Display" -> {
-                    BranchEvent(BRANCH_STANDARD_EVENT.RATE).setDescription("ACI_Display")
-                        .logEvent(hyjujkilolool.applicationContext)
-
-                }
-
-                else -> {
-
-
-                    BranchEvent(BRANCH_STANDARD_EVENT.VIEW_AD).setDescription("NoChannel")
-                        .logEvent(hyjujkilolool.applicationContext)
-                    Log.d("Branch Check", "I'm here, branch bitch! No source though")
-                }
-
-            }
 
         }
 

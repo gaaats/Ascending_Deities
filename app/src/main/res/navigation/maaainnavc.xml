@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/maaamammaFragment"
-        android:name="com.artifexmundi.bale.Ma1Fragment"
+        android:name="com.artifexmundi.bale.veebviiiev.frrfrfrf.Ma1Fragment"
         android:label="fragment_maaamamma"
         tools:layout="@layout/fragment_ma1" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/conCOnFragment"
-        android:name="com.artifexmundi.bale.Con1Fragment"
+        android:name="com.artifexmundi.bale.veebviiiev.frfrhrfrfyg.Con1Fragment"
         android:label="fragment_con_c_on"
         tools:layout="@layout/fragment_con1" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/seciiManFragment"
-        android:name="com.artifexmundi.bale.SeMainFragment"
+        android:name="com.artifexmundi.bale.veebviiiev.frrfrfrf.SeMainFragment"
         android:label="fragment_secii_man"
         tools:layout="@layout/fragment_se_main" >
         <action
@@ -34,7 +34,7 @@
     </fragment>
     <fragment
         android:id="@+id/prrrFiilFragment"
-        android:name="com.artifexmundi.bale.Bef1Fragment"
+        android:name="com.artifexmundi.bale.veebviiiev.frfrhrfrfyg.Bef1Fragment"
         android:label="fragment_prrr_fiil"
         tools:layout="@layout/fragment_bef1" >
         <action
@@ -43,7 +43,7 @@
     </fragment>
     <fragment
         android:id="@+id/fillloFragment"
-        android:name="com.artifexmundi.bale.F5Fragment"
+        android:name="com.artifexmundi.bale.veebviiiev.frfrhrfrfyg.F5Fragment"
         android:label="fragment_filllo"
         tools:layout="@layout/fragment_f5" />
 </navigation>

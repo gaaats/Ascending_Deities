@@ -1,6 +1,6 @@
 package com.artifexmundi.bale.cocococo
 
-object Util26255 {
+object HHfhrhfrhhfr {
 
 
     val h2hy2hy62hy = "sub_id_5="

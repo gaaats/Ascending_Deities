@@ -1,4 +1,4 @@
-package com.artifexmundi.bale
+package com.artifexmundi.bale.veebviiiev.frrfrfrf
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
+import com.artifexmundi.bale.R
 import com.artifexmundi.bale.databinding.FragmentGaame333Binding
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.delay

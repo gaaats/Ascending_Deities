@@ -1,4 +1,4 @@
-package com.artifexmundi.bale
+package com.artifexmundi.bale.veebviiiev.frfrhrfrfyg
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,7 +8,8 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.artifexmundi.bale.cocococo.Util26255.hyjuujikikollool
+import com.artifexmundi.bale.R
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.hyjuujikikollool
 import com.artifexmundi.bale.veebviiiev.ViModt6g2t2g
 import org.koin.android.ext.android.inject
 import org.koin.androidx.viewmodel.ext.android.activityViewModel

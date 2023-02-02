@@ -12,9 +12,9 @@ import android.util.Log
 import android.webkit.*
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.artifexmundi.bale.cocococo.Util26255.aps_idhyhy2hy
-import com.artifexmundi.bale.cocococo.Util26255.frgtgttggt
-import com.artifexmundi.bale.cocococo.Util26255.h2y5hy5y55y
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.aps_idhyhy2hy
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.frgtgttggt
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.h2y5hy5y55y
 import com.artifexmundi.bale.databinding.ActivityVivatBinding
 import com.artifexmundi.bale.veebviiiev.BeamModrfrf6r2rf
 import org.koin.androidx.viewmodel.ext.android.viewModel

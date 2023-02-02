@@ -1,4 +1,4 @@
-package com.artifexmundi.bale
+package com.artifexmundi.bale.veebviiiev.frrfrfrf
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -8,9 +8,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
-import com.artifexmundi.bale.cocococo.Util26255
-import com.artifexmundi.bale.cocococo.Util26255.h2yy5yyyy5y
-import com.artifexmundi.bale.cocococo.Util26255.juujujkiikik
+import com.artifexmundi.bale.R
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.h2yy5yyyy5y
+import com.artifexmundi.bale.cocococo.HHfhrhfrhhfr.juujujkiikik
 import com.artifexmundi.bale.veebviiiev.ViModt6g2t2g
 import org.koin.android.ext.android.inject
 import org.koin.androidx.viewmodel.ext.android.activityViewModel
@@ -53,7 +54,7 @@ class SeMainFragment : Fragment() {
                 hy5hy5hy5yh = it.view2622
 
                 hy2yh5yh5y.edit().putString(h2yy5yyyy5y, hykhykokoyh).apply()
-                hy2yh5yh5y.edit().putString(Util26255.hyjuujikikollool, appsh2hy2hy).apply()
+                hy2yh5yh5y.edit().putString(HHfhrhfrhhfr.hyjuujikikollool, appsh2hy2hy).apply()
                 hy2yh5yh5y.edit().putString(juujujkiikik, hy5hy5hy5yh).apply()
 
                 findNavController().navigate(R.id.action_seciiManFragment_to_prrrFiilFragment)

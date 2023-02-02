@@ -1,4 +1,4 @@
-package com.artifexmundi.bale
+package com.artifexmundi.bale.veebviiiev.frrfrfrf
 
 
 import androidx.core.content.ContextCompat
@@ -12,6 +12,7 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.navigation.fragment.findNavController
+import com.artifexmundi.bale.R
 import com.artifexmundi.bale.databinding.FragmentGaaame222Binding
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.delay
