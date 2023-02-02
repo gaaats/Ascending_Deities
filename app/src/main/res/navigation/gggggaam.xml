@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/gaame1Fragment"
-        android:name="com.artifexmundi.bale.veebviiiev.frrfrfrf.Gaame111Fragment"
+        android:name="com.fruihrfhihrfrf.gttggttgtghhy.veebviiiev.frrfrfrf.Gaame111Fragment"
         android:label="fragment_gaame1"
         tools:layout="@layout/fragment_gaame111" >
         <action
@@ -16,7 +16,7 @@
     </fragment>
     <fragment
         android:id="@+id/gaaame2Fragment"
-        android:name="com.artifexmundi.bale.veebviiiev.frrfrfrf.Gaaame222Fragment"
+        android:name="com.fruihrfhihrfrf.gttggttgtghhy.veebviiiev.frrfrfrf.Gaaame222Fragment"
         android:label="fragment_gaaame2"
         tools:layout="@layout/fragment_gaaame222" >
         <action
@@ -25,7 +25,7 @@
     </fragment>
     <fragment
         android:id="@+id/gaame3Fragment"
-        android:name="com.artifexmundi.bale.veebviiiev.frrfrfrf.Gaame333Fragment"
+        android:name="com.fruihrfhihrfrf.gttggttgtghhy.veebviiiev.frrfrfrf.Gaame333Fragment"
         android:label="fragment_gaame3"
         tools:layout="@layout/fragment_gaame333" >
         <action

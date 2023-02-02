@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace 'com.artifexmundi.bale'
+    namespace 'com.fruihrfhihrfrf.gttggttgtghhy'
     compileSdk 33
 
     defaultConfig {
