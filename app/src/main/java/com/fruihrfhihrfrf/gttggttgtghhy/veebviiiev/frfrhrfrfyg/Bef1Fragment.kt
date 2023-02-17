@@ -18,6 +18,11 @@ import org.koin.core.qualifier.named
 
 class Bef1Fragment : Fragment() {
 
+    override fun onStart() {
+        super.onStart()
+
+    }
+
 
 
     override fun onAttach(context: Context) {

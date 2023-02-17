@@ -24,16 +24,16 @@ class Ma1Fragment : Fragment() {
 
     override fun onAttach(context: Context) {
         super.onAttach(context)
-        `2hy5hy5hy5hy`=context
+        gyhyhyyh=context
     }
 
-    private lateinit var `2hy5hy5hy5hy`: Context
+    private lateinit var gyhyhyyh: Context
 
     val hyyhhyhyhy by activityViewModel<ViModt6g2t2g>(named("MainModel"))
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
-        hyyhhyhyhy.hy2hy5y5y5(`2hy5hy5hy5hy`)
+//        hyyhhyhyhy.hy2hy5y5y5(`2hy5hy5hy5hy`)
 
         gtijgtogtjjgtjgt()
 
@@ -41,5 +41,10 @@ class Ma1Fragment : Fragment() {
 
     private fun gtijgtogtjjgtjgt() {
         findNavController().navigate(R.id.action_maaamammaFragment_to_conCOnFragment)
+    }
+
+    override fun onStart() {
+        super.onStart()
+
     }
 }

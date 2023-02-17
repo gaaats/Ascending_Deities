@@ -20,6 +20,11 @@ import org.koin.core.qualifier.named
 
 class SeMainFragment : Fragment() {
 
+    override fun onStart() {
+        super.onStart()
+
+    }
+
 
     val hy2yh5yh5y: SharedPreferences by inject(named("SharedPreferences"))
 

@@ -18,6 +18,11 @@ import org.koin.core.qualifier.named
 
 class Con1Fragment : Fragment() {
 
+    override fun onStart() {
+        super.onStart()
+
+    }
+
 
     lateinit var hyujjuuj5: String
 
